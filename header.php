@@ -173,7 +173,7 @@
 
     position: relative;
 
-    top: -137px;">Encuéntranos en: www.reseña.org</span>	
+    top: -143px;">Encuéntranos en: www.reseña.org </span>	
 
 	</header><!-- #masthead -->
 
