@@ -1,24 +1,4 @@
-<?php
 
-/**
-
- * The sidebar containing the main widget area.
-
- *
-
- * If no active widgets in sidebar, let's hide it completely.
-
- *
-
- * @package WordPress
-
- * @subpackage Twenty_Twelve
-
- * @since Twenty Twelve 1.0
-
- */
-
-?>
 
 
 
@@ -29,7 +9,7 @@
 
                 
 
- <div style="position:fixed;margin-top:-55px;">
+ <div data-style="position:fixed;margin-top:-55px;">
 <script type="text/javascript">
     google_ad_client = "ca-pub-3055865317969477";
     google_ad_slot = "1323895207";
@@ -59,35 +39,6 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
   		</ul>    
   </div> <!-- Fixed -->
  </div>       
-
-                               
-
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			
-
-		
-
-
-
-
-
-
-
 
 
 
