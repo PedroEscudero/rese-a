@@ -9,7 +9,7 @@
 
 get_header(); ?>
 
-	<div id="primary" class="site-content">
+	<div id="primary" class="col-md-8 inicio">
 		<div id="content" role="main">
 
 			<?php while ( have_posts() ) : the_post(); ?>

@@ -1,7 +1,5 @@
 
 
-
-
 	<?php if ( is_active_sidebar( 'sidebar-1' ) ) : ?>
 
 		<div class="col-md-4">
@@ -24,7 +22,7 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 <div class="separador" style="clear:both;margin-top:10px;"></div>
 <big>Síguenos</big>
 
-  		<ul style="margin-top:5px;margin-bottom:3px;">
+  		<ul style="margin-top:5px;margin-bottom:20px;">
 
   		<li style=""><a title="Síguenos en Facebook" target="_BLANK" href="http://www.facebook.com/pages/Reseñas-de-libros/170344366405645"><img style="margin-left:3px; margin-right:3px;"  src="http://reseña.org/img/fb.png" /></a>
 
@@ -36,7 +34,17 @@ src="//pagead2.googlesyndication.com/pagead/show_ads.js">
 
 </li>
 
-  		</ul>    
+  		</ul>  
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- movil -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3055865317969477"
+     data-ad-slot="7249555201"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  
   </div> <!-- Fixed -->
  </div>       
 

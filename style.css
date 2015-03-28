@@ -128,19 +128,15 @@ body {
 
 .entry-content img{
 
-  border: 2px solid #EDEDE5;
+    border: 2px solid #EDEDE5;
 
     float: left;
-
-    height: 222.35px;
 
     margin-bottom: 5px;
 
     margin-right: 20px;
 
-    width: 140px;
-
-
+    width: 190px;
 
 }
 
@@ -776,17 +772,15 @@ img.header-image,
 
 img.wp-post-image {
 
-	/* Add fancy borders to all WordPress-added images but not things like badges and icons and the like */
+	
 
-	border-radius: 3px;
-
-	box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+	//width: 190px;
 
 }
 
 .wp-caption {
 
-	max-width: 100%; /* Keep wide captions from overflowing their container. */
+	max-width: 100%; 
 
 	padding: 4px;
 
@@ -1585,19 +1579,16 @@ footer[role="contentinfo"] a:hover {
 }
 
 .entry-header .entry-title {
+	
+	font-variant: small-caps;
 
-	font-size: 18px;
-
-	//font-size: 1.228571429rem;
+	font-size: 21px;
 
 	line-height: 1.2;
 
-	
+	color: #AF0000;
 
-	color:red;
-
-font-family:verdana;
-
+	font-family: Verdana,Arial,Helvetica,sans-serif;
 }
 
 .entry-header .entry-title a {
@@ -3502,9 +3493,7 @@ overflow:visible;
 
 	img.wp-post-image {
 
-		border-radius: 0;
-
-		box-shadow: none;
+		width: 190px;
 
 	}
 
